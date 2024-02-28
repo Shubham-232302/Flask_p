@@ -8,13 +8,13 @@ posts = [
     'author': 'Shubham Deodhar',
     'title': 'My First Blog',
     'content': 'This is the content',
-    'date':'28-feb-2024'
+    'date_posted':'28-feb-2024'
         },
     {
         'author': 'new user',
     'title': 'new Blog',
     'content': 'This is the new content',
-    'date':'28-feb-1900'
+    'date_posted':'28-feb-1900'
     }
 ]
 
